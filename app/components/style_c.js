@@ -38,5 +38,6 @@ export const Style_c = {
         marginLeft:30,
         marginRight:30,
         fontSize:"1.2em",
+		color: "white",
     }
 }

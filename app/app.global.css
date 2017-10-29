@@ -5,6 +5,7 @@ body {
   height: 100vh;
   font-family: Arial, Helvetica, Helvetica Neue, serif;
   overflow-y: hidden;
+  background-image: url("https://hare1039.nctu.me/imgs/galaxy.jpg");
 }
 
 h2 {

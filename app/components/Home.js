@@ -10,7 +10,7 @@ export default class Home extends Component {
     return (
         <div style = {Style_c.outter}>
             <div style = {Style_c.container}>
-                <Header as='h2' icon>
+                <Header as='h2' icon inverted>
                     <Icon name='rocket' />
                     What is IPFS?
                     <Header.Subheader>
